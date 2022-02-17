@@ -1,59 +1,15 @@
-## Introduction
+You may want to mount LEDs, buttons, buzzers and potentiometers in card or plastic. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+If your components have soldered jumper wires, make a hole in the card or plastic and then push the component through from the back.
 
-### What you will make
+![An LED with pre-soldered jumper wires sticking out through a piece of card.](images/pre-soldered-mount.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+If you are using components with socket-socket jumper wires then remove the jumper wires and push the legs of the component through card. For plastic you will need make holes first by carefully using a tool with a sharp point. 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+**Tip:** Remember which leg connects to which jumper wire. 
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Then reconnect the jumper wires on the back of the card or plastic. 
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+If necessary you can use sticky tape or electrical tape to keep your components in place. 
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+![desc](images/taped-mount.png)
