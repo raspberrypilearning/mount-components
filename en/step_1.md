@@ -12,4 +12,4 @@ Then reconnect the jumper wires on the back of the card or plastic.
 
 If necessary you can use sticky tape or electrical tape to keep your components in place. 
 
-![desc](images/taped-mount.png)
+![The back of a piece of cardboard showing electrical tape holidng the wires in place to keep the component fixed.](images/taped-mount.png)
