@@ -10,6 +10,8 @@ If you are using components with socket-socket jumper wires then remove the jump
 
 Then reconnect the jumper wires on the back of the card or plastic. 
 
+![An LED with legs sticking through the card and jumper wires ready to reattach.](images/non-soldered-mount.png)
+
 If necessary you can use sticky tape or electrical tape to keep your components in place. 
 
 ![The back of a piece of cardboard showing electrical tape holidng the wires in place to keep the component fixed.](images/taped-mount.png)
