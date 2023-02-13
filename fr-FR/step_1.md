@@ -1,17 +1,17 @@
-You may want to mount LEDs, buttons, buzzers and potentiometers in card or plastic.
+Tu voudras peut-être monter des LED, des boutons, des buzzers et des potentiomètres sur du carton ou du plastique.
 
-If your components have soldered jumper wires, make a hole in the card or plastic and then push the component through from the back.
+Si tes composants ont des fils de raccordement soudés, perce un trou dans le carton ou le plastique, puis pousse le composant par l'arrière.
 
-![An LED with pre-soldered jumper wires sticking out through a piece of card.](images/pre-soldered-mount.png)
+![Une LED avec des fils de liaison pré-soudés qui sortent à travers un morceau de carton.](images/pre-soldered-mount.png)
 
-If you are using components with socket-socket jumper wires then remove the jumper wires and push the legs of the component through card. For plastic you will need make holes first by carefully using a tool with a sharp point.
+Si tu utilises des composants avec des fils de raccordement douille-douille, retire les fils de raccordement et pousse les pattes du composant à travers le carton. Pour le plastique, tu devras d'abord faire des trous en utilisant soigneusement un outil avec une pointe acérée.
 
-**Tip:** Remember which leg connects to which jumper wire.
+**Astuce :** Rappelle-toi quelle broche se connecte à quel fil de liaison.
 
-Then reconnect the jumper wires on the back of the card or plastic.
+Rebranche ensuite les fils de liaison au dos du carton ou du plastique.
 
-![An LED with legs sticking through the card and jumper wires ready to reattach.](images/non-soldered-mount.png)
+![Une LED avec des pattes traversant le carton et des fils de liaison prêts à être reconnectés.](images/non-soldered-mount.png)
 
-If necessary you can use sticky tape or electrical tape to keep your components in place.
+Si nécessaire, tu peux utiliser du ruban adhésif ou du ruban électrique pour maintenir tes composants en place.
 
-![The back of a piece of cardboard showing electrical tape holidng the wires in place to keep the component fixed.](images/taped-mount.png)
+![Le dos d'un morceau de carton montrant du ruban électrique maintenant les fils en place pour maintenir le composant fixe.](images/taped-mount.png)
