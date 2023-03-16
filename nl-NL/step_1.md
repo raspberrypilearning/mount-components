@@ -1,17 +1,17 @@
-You may want to mount LEDs, buttons, buzzers and potentiometers in card or plastic.
+Misschien wil je de LEDs, knoppen, zoemers en potentiometers monteren op karton of plastic.
 
-If your components have soldered jumper wires, make a hole in the card or plastic and then push the component through from the back.
+Als je onderdelen gesoldeerde verbindingsdraden hebben, maak dan een gaatje in het karton of plastic en duw dan het onderdeel er vanaf de achterkant doorheen.
 
-![An LED with pre-soldered jumper wires sticking out through a piece of card.](images/pre-soldered-mount.png)
+![Een LED met voorgesoldeerde verbindingsdraden die door een stuk karton steken.](images/pre-soldered-mount.png)
 
-If you are using components with socket-socket jumper wires then remove the jumper wires and push the legs of the component through card. For plastic you will need make holes first by carefully using a tool with a sharp point.
+Als je onderdelen met bus-bus verbindingsdraden gebruikt, verwijder dan de verbindingsdraden en duw de benen van het onderdeel door het karton. Voor plastic maak je de gaatjes eerst door voorzichtig een stuk gereedschap met een scherpe punt te gebruiken.
 
-**Tip:** Remember which leg connects to which jumper wire.
+**Tip:** Onthoud welk been aansluit op welke verbindingsdraad.
 
-Then reconnect the jumper wires on the back of the card or plastic.
+Sluit vervolgens de verbindingsdraden weer aan op de achterkant van het karton of plastic.
 
-![An LED with legs sticking through the card and jumper wires ready to reattach.](images/non-soldered-mount.png)
+![Een LED met benen die door het karton steken en verbindingsdraden die klaar zijn om opnieuw te worden bevestigd.](images/non-soldered-mount.png)
 
-If necessary you can use sticky tape or electrical tape to keep your components in place.
+Indien nodig kun je plakband of isolatietape gebruiken om je onderdelen op hun plaats te houden.
 
-![The back of a piece of cardboard showing electrical tape holidng the wires in place to keep the component fixed.](images/taped-mount.png)
+![De achterkant van een stuk karton met isolatietape die de draden op hun plaats houdt om het onderdeel te fixeren.](images/taped-mount.png)
