@@ -1,10 +1,10 @@
 Tu voudras peut-être monter des LED, des boutons, des buzzers et des potentiomètres sur du carton ou du plastique.
 
-Si tes composants ont des fils de raccordement soudés, perce un trou dans le carton ou le plastique, puis pousse le composant par l'arrière.
+Si tes composants ont des fils de liaison soudés, perce un trou dans le carton ou le plastique, puis pousse le composant par l'arrière.
 
 ![Une LED avec des fils de liaison pré-soudés qui sortent à travers un morceau de carton.](images/pre-soldered-mount.png)
 
-Si tu utilises des composants avec des fils de raccordement douille-douille, retire les fils de raccordement et pousse les pattes du composant à travers le carton. Pour le plastique, tu devras d'abord faire des trous en utilisant soigneusement un outil avec une pointe acérée.
+Si tu utilises des composants avec des fils de liaison prise-prise, retire les fils de liaison et pousse les pattes du composant à travers la carte. Pour le plastique, tu devras d'abord faire des trous en utilisant soigneusement un outil avec une pointe acérée.
 
 **Astuce :** Rappelle-toi quelle broche se connecte à quel fil de liaison.
 
